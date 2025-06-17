@@ -90,6 +90,11 @@ For development with hot reloading:
 npm run dev
 ```
 
+### Docker Version
+``` bash
+docker compose up -d
+```
+
 The API will be available at `http://localhost:5000`.
 
 ---
